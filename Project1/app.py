@@ -45,7 +45,8 @@ if page_chosen == "Home Page":
     st.divider()
 
     if weather_tracker.empty:
-        st.info("Upload a CSV or log an observation to get started.")
+        st.subheader("Sorry 😅 looks like there isnt any data yet")
+        st.subheader("Upload a CSV or log an observation to get started. 🙏🏻")
 
     else:
         yesterday = weather_tracker.iloc[-1]  # Gets last record of the csv
