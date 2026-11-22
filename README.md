@@ -1,8 +1,9 @@
 # Weather Tracker - Fawaz
 
+A Streamlit app for logging temperature, weather conditions, humidity and wind speed made following the GA Data Science deliverables. 
+Use the dashboard to see temperature trends, search observations by date or condition and upload or download your data as a CSV.
 
-
-This is the weather tracker app I made using streamlit following the GA Data Science deliverables. 
+app.py runs the interface, and myutils.py handles CSV loading, logging, filtering and statistics.
 
 The app has a 
 - Home page with an introduction 
