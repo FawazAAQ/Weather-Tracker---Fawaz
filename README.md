@@ -14,3 +14,6 @@ The app has a
 
 User can also upload their own data to view from 
 
+https://weather-tracker-fawaz-ga.streamlit.app/
+
+https://youtu.be/9aQ3OD5n4Xs
